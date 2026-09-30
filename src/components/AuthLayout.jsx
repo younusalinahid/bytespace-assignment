@@ -1,7 +1,7 @@
 import logoIcon from "../assets/logo-icon.png";
 import heroCone from "../assets/hero-cone.png";
 import heroRingWhite from "../assets/hero-ring-white.png";
-import avatarGroup from "../assets/avatar-group.png";
+import avatarGroup from "../assets/Avatar-group.png";
 import courseCard1 from "../assets/Course_Card_1.png";
 import courseCard2 from "../assets/Course_Card_2.png";
 
