@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-persian-blue: #003BE2;
+  --color-electric-lime: #ccff00;
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  --font-satoshi: "Satoshi", sans-serif;
+}
+
